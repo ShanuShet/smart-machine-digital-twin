@@ -1,11 +1,11 @@
-# 🎨 System Design
+#  System Design
 
-## 📌 Overview
+##  Overview
 The system is designed using a modular approach for easy development and maintenance.
 
 ---
 
-## 🧩 Modules
+##  Modules
 
 ### 1. Data Generation Module
 - File: `virtual_machine.py`
@@ -34,13 +34,13 @@ The system is designed using a modular approach for easy development and mainten
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 Generate Data → Predict → Display → Repeat
 
 
 ---
 
-## 🎯 Design Goals
+##  Design Goals
 - Simplicity  
 - Real-time updates  
 - Modular structure  
