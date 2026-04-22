@@ -1,18 +1,18 @@
 
-# 🏗️ System Architecture
+#  System Architecture
 
-## 📌 Overview
+##  Overview
 The system follows a **Digital Twin Architecture** where a virtual model represents a real machine.
 
 ---
 
-## 🔄 Architecture Flow
+##  Architecture Flow
 Virtual Sensors → Data Simulator → AI Model → Prediction → Dashboard
 
 
 ---
 
-## 🧩 Components
+##  Components
 
 ### 1. Virtual Machine
 - Simulates machine behavior
@@ -38,7 +38,7 @@ Virtual Sensors → Data Simulator → AI Model → Prediction → Dashboard
 
 ---
 
-## 🔗 Interaction Between Components
+##  Interaction Between Components
 
 1. Virtual machine generates data  
 2. Data is passed to ML model  
@@ -47,7 +47,7 @@ Virtual Sensors → Data Simulator → AI Model → Prediction → Dashboard
 
 ---
 
-## 🎯 Key Advantage
+##  Key Advantage
 - Real-time monitoring  
 - Early failure detection  
 - Scalable architecture  
